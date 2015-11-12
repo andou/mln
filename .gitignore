@@ -2,9 +2,9 @@ n98-magerun.phar
 .DS_Store
 var/*
 var/**/*
-media
-media/*
-media/**/*
+/media
+/media/*
+/media/**/*
 media-css/*
 media-css_secure/*
 media-js/*
