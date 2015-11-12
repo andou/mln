@@ -1,3 +1,4 @@
+n98-magerun.phar
 .DS_Store
 var/*
 var/**/*
@@ -9,6 +10,7 @@ media-css_secure/*
 media-js/*
 errors/local.xml
 app/etc/local.xml
+app/etc/local.xml.*
 app/etc/enterprise.xml
 downloader/*
 downloader/**/*
