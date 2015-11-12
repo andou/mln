@@ -496,7 +496,7 @@ textarea {
 }
 
 a {
-  color: #3399cc;
+  color: #422119;
   text-decoration: none;
 }
 
@@ -669,7 +669,7 @@ h6, .h6 {
 .block-title strong {
   margin: 0;
   margin-bottom: 10px;
-  color: #636363;
+  color: #422119;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
   font-size: 14px;
   font-weight: bold;
@@ -917,11 +917,11 @@ body:not(.customer-account) .block:first-child .block-title {
 .cart-table .product-cart-actions .button,
 #co-shipping-method-form .buttons-set .button,
 .footer .button {
-  background: #3399cc;
+  background-color: #ffd99e;
+  color: #422119;
   display: inline-block;
   padding: 7px 15px;
   border: 0;
-  color: #FFFFFF;
   font-size: 13px;
   font-weight: normal;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
@@ -935,14 +935,14 @@ body:not(.customer-account) .block:first-child .block-title {
 .cart-table .product-cart-actions .button:hover,
 #co-shipping-method-form .buttons-set .button:hover,
 .footer .button:hover {
-  background: #2e8ab8;
+  background-color: #ffd99e;
   cursor: pointer;
 }
 .button:active,
 .cart-table .product-cart-actions .button:active,
 #co-shipping-method-form .buttons-set .button:active,
 .footer .button:active {
-  background: #297aa3;
+   background-color: #ffd99e;
   color: #FFFFFF;
 }
 .button:focus,
@@ -995,7 +995,7 @@ a.button:hover {
   text-decoration: underline;
   text-transform: uppercase;
   display: inline-block;
-  color: #3399cc;
+  color: #422119;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
 }
 .button2 span:hover,
@@ -3183,7 +3183,7 @@ body {
  * ============================================ */
 .header-language-background {
   padding: 10px;
-  background-color: #3399cc;
+  background-color: #ffd99e;
   text-transform: uppercase;
 }
 .header-language-background .header-language-container {
@@ -3227,7 +3227,7 @@ body {
 }
 .header-language-background,
 .header-language-background a {
-  color: #e6e6e6;
+  color: #422119;
 }
 
 @media only screen and (max-width: 770px) {
@@ -4950,7 +4950,7 @@ p.product-name a:hover {
 }
 .product-view .product-shop .product-name .h1,
 .product-view .product-img-box .product-name h1 {
-  color: #3399cc;
+  color: #422119;
   margin-bottom: 10px;
   border: 0;
 }
